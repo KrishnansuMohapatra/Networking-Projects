@@ -44,7 +44,6 @@ git clone https://github.com/KrishnansuMohapatra/Networking-Projects/tree/main/F
 
 ```
 
-Replace `<your-repository-url>` with your GitHub repository URL.
 
 ### 2. Prepare the File
 
