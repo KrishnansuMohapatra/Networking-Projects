@@ -40,8 +40,8 @@ python-tcp-file-transfer/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd python-tcp-file-transfer
+git clone https://github.com/KrishnansuMohapatra/Networking-Projects/tree/main/File%20transfer
+
 ```
 
 Replace `<your-repository-url>` with your GitHub repository URL.
